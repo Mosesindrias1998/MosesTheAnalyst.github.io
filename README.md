@@ -16,9 +16,7 @@ Data Analyst with python using jupter note book
 2. This graph shows the number of times the name 'MARY' was taken/used for a new born child'FEMALE' through the years 1880-2020
    ![Capture2](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/2c5a01ec-f81d-42a8-86dd-f0415b4ccae9)
 
-3. Showing the popularity of the name 'MARY' through the years against other names.
+3.  Plotting few names together to check popularity/comparing for men and women in two graph
    ![Capture3](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/21f213d1-5d99-4fd1-8841-3e6b4c14e78c)
 
-4. Plotting few names together to check popularity/comparing for men.
-   
 ![Capture4](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/df4c373f-d64f-4219-97e7-3a58b70e804b)
