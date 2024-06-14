@@ -10,7 +10,7 @@ Video games sales charts and findings.
 ![image](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/31091f92-996f-4dca-90b7-f612b27f3f49)
 
 Data Analyst with python using jupter note book
-1. Getting a data fpr a given name from the dataset. e.g 'Mary' in this graph below and showing it through a plot.
+1. Getting a data for a given name from the dataset. e.g 'Mary' in this graph below and showing it through a plot.
 ![Capture](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/55a7be18-4902-40e5-8f92-41bb75d1a891)
 
 2. This graph shows the number of times the name 'MARY' was taken/used for a new born child'FEMALE' through the years 1880-2020
