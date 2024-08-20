@@ -20,3 +20,43 @@ Data Analyst with python using jupter note book
    ![Capture3](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/21f213d1-5d99-4fd1-8841-3e6b4c14e78c)
 
 ![Capture4](https://github.com/Mosesindrias1998/MosesTheAnalyst.github.io/assets/105355593/df4c373f-d64f-4219-97e7-3a58b70e804b)
+
+
+**JP Morgan Virtual Internship**
+This virtual internship was under JP Morgan Chase and Co. on Excel Skills by Forage.
+
+**Problem Statment**
+The Sales Team wants to know how their unit sales are doing and how can they improve.
+
+**Task 1: Excel Keyboard Shortcuts**
+Practice common keyboard shortcuts to make working in Excel more efficient
+
+
+**Task 2: Conditional Formatting**
+Use Excel’s conditional formatting tools to explore and visualize the characteristics of the data in the dataset
+
+Highlighted any cell with formula errors in purple with white text.
+Highlighted any cell with missing values in yellow.
+Identified accounts that have a 5-year sales CAGR of at least 100% in Green and any account with a negative CAGR in red with white text.
+Identified accounts that have not been cross sold with Product 2 by highlighting the appropriate Product 2 cells in orange.
+Identified accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021-unit cells in blue.
+
+![TASK1 AND 2](https://github.com/user-attachments/assets/cfa6a441-860f-4e8b-b507-e3e1ff9bbb2e)
+
+
+**Task 3: Visual Basic for Applications (VBA) Macros**
+Utilized macros in Excel and create two macros using same spreadsheet that was modified prior.
+
+Created a macro to sort the entire spreadsheet by 5 year CAGR in descending order to see which account have the higher overall 5 year growth
+Create a macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
+
+![VBA](https://github.com/user-attachments/assets/ba6c8e43-edd7-4389-84f9-78d9fff964da)
+
+**Task 4: Data Visualization in Excel**
+Created a simple dashboard using the account sales dataset
+
+![Capture](https://github.com/user-attachments/assets/015c5d19-d91e-49e1-b1df-a0829ca10c88)
+
+Created macros to assist with disaggregating data by multiple years
+Utlized pivot tables and charts to create dashboard.
+
